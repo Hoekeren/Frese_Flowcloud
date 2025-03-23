@@ -1,0 +1,3 @@
+sensor:
+  - platform: frese
+    api_key: "DIN_API_NØGLE"

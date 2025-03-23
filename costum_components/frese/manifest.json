@@ -1,0 +1,9 @@
+{
+  "domain": "frese",
+  "name": "Frese API",
+  "version": "1.0",
+  "documentation": "https://www.example.com",
+  "dependencies": [],
+  "codeowners": ["@din_bruger"],
+  "requirements": ["requests==2.25.1"]
+}
